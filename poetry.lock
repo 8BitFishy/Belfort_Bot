@@ -1,0 +1,18 @@
+[[package]]
+category = "main"
+description = "CoinMarketCap Python API Wrapper"
+name = "python-coinmarketcap"
+optional = false
+python-versions = "*"
+version = "0.2"
+
+[metadata]
+content-hash = "5944f7de1a4967977e3a769f8f1b24b868e52f5fa4d0c2d842eab0b5dbc0f841"
+python-versions = "^3.8"
+
+[metadata.files]
+python-coinmarketcap = [
+    {file = "python-coinmarketcap-0.2.tar.gz", hash = "sha256:b1e0e8b098fc910a5ec943a06774d5ee3b190e915123366e2f16238ef0a8a433"},
+    {file = "python_coinmarketcap-0.2-py2-none-any.whl", hash = "sha256:54c278154ee11ca78837fb73eae8c322a60af93dc0ce75b515fecf895d181cf5"},
+    {file = "python_coinmarketcap-0.2-py3-none-any.whl", hash = "sha256:3b69a7a92cd4f2b4726a2982d166c0b587fa4911cf366286f798e1e6f9d94933"},
+]
